@@ -5,9 +5,7 @@ To test the code, download the dataset ts from https://www.kaggle.com/code/vimal
 
 
 
-https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/7b8d1a59-7814-4853-abe8-bbea661a782b
 
 
-
-https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/7aff3fa8-6e3f-488c-834c-936afe39632a
+https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/bdfaf510-7758-48a6-bb93-a6d1c12b17f8
 
