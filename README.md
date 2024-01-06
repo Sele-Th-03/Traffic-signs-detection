@@ -5,5 +5,3 @@ To test the code, download the dataset ts from https://www.kaggle.com/code/vimal
 
 
   ![traffic_sign_test1](https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/786f34bd-f6aa-4868-a922-c81979c9b882)
-![Untitled video - Made with Clipchamp](https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/f43a5f31-9925-47ca-834c-ad749e998159)
-<video width="630" height="300" src="https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/f43a5f31-9925-47ca-834c-ad749e998159"></video>
