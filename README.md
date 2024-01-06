@@ -4,12 +4,4 @@ Trained a custom YOLOv5 model that can detect various traffic signs and classify
 To test the code, download the dataset ts from https://www.kaggle.com/code/vimalpillai/traffic-signs-detection-using-yolov5-model/input. After downloading the dataset, please take the dataset.yml file and place it into the yolov5 folder that will be created by the main.ipynb code.
 
 
-
-
-
-https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/bdfaf510-7758-48a6-bb93-a6d1c12b17f8
-
-
-
-https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/30536e88-ff9a-430f-804a-417b12f38411
-
+  ![traffic_sign_test1](https://github.com/Sele-Th-03/Traffic-signs-detection/assets/131516552/786f34bd-f6aa-4868-a922-c81979c9b882)
